@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chatbot</string>
+    <string name="permission_text_audio">This app is using audio for input.</string>
+    <string name="ok">OK</string>
+    <string name="ask">Ask me</string>
+    <string name="listening">Listening</string>
+    <string name="input">Your query: %1$s</string>
+    <string name="answer">Agent answer: %1$s</string>
+    <string name="intent">Intent name: %1$s</string>
+</resources>
